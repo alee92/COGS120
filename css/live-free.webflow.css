@@ -86,7 +86,7 @@ p {
   padding-bottom: 47px;
   border-top: 4px solid #300;
   background-color: #8c8c8c;
-  background-image: url('../images/background-image.jpg');
+  background-image: url('../images/sunshine.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -167,7 +167,7 @@ p {
     text-shadow: rgba(0, 0, 0, 0.29) 0px 4px 0px;
   }
   .jumbo {
-    background-image: url('../images/background-image.jpg');
+    background-image: url('../images/sunshine.jpg');
     background-position: 50% 50%;
   }
   .subtitle {
@@ -191,7 +191,7 @@ p {
     text-align: center;
   }
   .jumbo {
-    background-image: url('../images/background-image.jpg');
+    background-image: url('../images/sunshine.jpg');
     background-position: 50% 50%;
     text-align: center;
   }
